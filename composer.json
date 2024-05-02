@@ -1,7 +1,7 @@
 {
     "name": "videojs/video.js",
     "description": "An HTML5 video player.",
-    "type": "library",
+    "type": "drupal-library",
     "keywords": [
         "videojs",
         "html5",
